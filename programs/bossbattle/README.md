@@ -31,7 +31,7 @@ Current Version: 1.1
 | -------- | -------------------------------------------------- |
 | B        | Used to store Boss Health.                         |
 | E        | Used to set max damage by.                         |
-| H        | Used to store Player Health                        |
+| H        | Used to store Player Health.                        |
 | N        | Used to calculate output location (Boss Health).   |
 | O        | Used to calculate output location (Player Health). |
 
